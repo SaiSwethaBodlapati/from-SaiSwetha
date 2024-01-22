@@ -9,3 +9,8 @@ Pista House stands out as a **culinary gem** for several reasons. Renowned for i
 1. Butter Chicken
 2. Chicken Biriyani
 3. Butter Nan
+
+#### Places to visit near restaurant
+* Charminar
+* Tankbund
+* Snow World
