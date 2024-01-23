@@ -14,3 +14,5 @@ Pista House stands out as a **culinary gem** for several reasons. Renowned for i
 * Charminar
 * Tankbund
 * Snow World
+
+![MyMedia]-https://vscode.dev/github/SaiSwethaBodlapati/from-SaiSwetha/blob/main/MyMedia.md
