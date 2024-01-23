@@ -16,3 +16,11 @@ Below are the books that i recommend you to check out the books which are intres
 |Mahabharatamu            |Its a Telugu poetic interpretation of Indian epic|Tirumala Ramachandra   |
 |Amarakosam               |Its a classical Telugu lexicon   |Amara Simha            |
 |Rajasekhara Charitra     |Its a historical and mythological Telugu literary|Kandukuri Veeresalingam |
+
+------
+
+## Favorite Quotes
+
+>"The only way to do great work is to love what you do." - *Steve Jobs*
+>
+>"Be yourself; everyone else is already taken." - *Oscar Wilde*
