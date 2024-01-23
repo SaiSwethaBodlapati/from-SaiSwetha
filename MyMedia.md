@@ -24,3 +24,17 @@ Below are the books that i recommend you to check out the books which are intres
 >"The only way to do great work is to love what you do." - *Steve Jobs*
 >
 >"Be yourself; everyone else is already taken." - *Oscar Wilde*
+
+------
+
+## Code Fencing
+
+>How to check memory usage?[Stackoverflow link]
+>
+>https://stackoverflow.com/questions/552744/how-do-i-profile-memory-usage-in-python
+~~~
+import sys
+a = 100;
+print(sys.getsizeof(a))
+~~~
+> QuickLink for the above snippet:https://code.pieces.app/collections/python
