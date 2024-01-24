@@ -30,6 +30,7 @@ Below are the books that i recommend you to check out the books which are intres
 ## Code Fencing
 
 >How to check memory usage?
+>
 >This snippet in Python checks the total memory an object consumes.
 ~~~
 import sys
@@ -37,4 +38,5 @@ a = 100;
 print(sys.getsizeof(a))
 ~~~
 > https://stackoverflow.com/questions/552744/how-do-i-profile-memory-usage-in-python
+>
 > QuickLink for the above snippet:https://code.pieces.app/collections/python
