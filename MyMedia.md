@@ -10,7 +10,7 @@ One interesting book is "1984" by George Orwell. Published in 1949, it's a dysto
 
 Below are the books that i recommend you to check out the books which are intresting and more curious stories that i have read in recent times.
 
-| Name                    | Reason                        | Author                 |
+| Name                    | Reason                        | Creator                 |
 |:-----------------------:|:------------------------------:|:----------------------:|
 |Bharatam                 |Its a classic piece of literature|C. Narayana Reddy       |
 |Mahabharatamu            |Its a Telugu poetic interpretation of Indian epic|Tirumala Ramachandra   |
